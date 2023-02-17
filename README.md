@@ -1,3 +1,7 @@
+[![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README-EN.md)
+[![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README.md)
+![License](https://img.shields.io/badge/License-Apache%202-green.svg)
+
 # Rust 开发语言学习笔记
 这个项目是一个 Rust 开发语言的学习笔记，记录了学习 Rust 的过程中积累的知识和经验。笔记主要包括以下几个方面：
 
